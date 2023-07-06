@@ -7,5 +7,6 @@ This is a project for the Ollopa Corporation. It is the AI Department's implemen
 <ol>
   <li>Run Install_libraries_drive.ipynb</li>
   <li>Run OOP_Facedetection_Media_Pipe.ipynb</li>
+  <li>Can commit changes using the Sample_Google_Collab_Git_Pushing_Changes_to_a_GitHub_Repo.ipynb</li>
 </ol>
  
